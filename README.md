@@ -1,4 +1,4 @@
-# Open Interface
+# Open Interface Enhanced [In development]
 
 <picture>
 	<img src="assets/icon.png" align="right" alt="Open Interface Logo" width="120" height="120">
